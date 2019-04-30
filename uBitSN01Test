@@ -1,4 +1,4 @@
-import uBitSN01_2 as s
+import uBitSN01 as s
 import utime
 
 my_gps=s.MicropyGPS()
