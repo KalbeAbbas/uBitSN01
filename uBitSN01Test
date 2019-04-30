@@ -1,0 +1,5 @@
+import uBitSN01 as s
+
+my_gps=s.MicropyGPS()
+print(my_gps.latitude())
+print(my_gps.longitude())
